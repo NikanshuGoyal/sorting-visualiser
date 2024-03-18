@@ -13,7 +13,7 @@ const Footer = (props) => {
           rel="noopener noreferrer"
           className="Footer__Link"
         >
-          Nikanshu Goyal and Rahul Sehrawat
+          Nikanshu Goyal
         </a>
       </section>
 
