@@ -25,9 +25,7 @@ const AppControls = ({
           'Insertion Sort',
           'Merge Sort',
           'Quick Sort',
-          'Quick Sort 3',
-          'Heap Sort',
-          'Shell Sort'
+          'Heap Sort'
         ]}
         selected={algorithm}
         onSelect={onAlgorithmChange}
